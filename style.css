@@ -80,3 +80,8 @@ body {
 .page1:active,.page2:active,.page3:active {
   background-color: rgb(160, 160, 160);
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
